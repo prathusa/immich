@@ -2,6 +2,7 @@
 node = "22.20.0"
 flutter = "3.35.4"
 pnpm = "10.15.1"
+java = "25.0.0"
 
 [tools."github:CQLabs/homebrew-dcm"]
 version = "1.30.0"
